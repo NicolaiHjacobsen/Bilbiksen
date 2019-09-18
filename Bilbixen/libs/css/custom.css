@@ -1,0 +1,45 @@
+.login-form
+{
+    
+    padding: 20px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: rgb(189, 187, 187);
+    background-color: rgb(230, 230, 230);
+}
+
+input
+{
+    width: 100%;
+    margin-top: 10px; 
+}
+
+.user-icon
+{
+    text-align: center;
+    font-size: 3.5em;
+    margin-bottom: 20px;
+}
+
+.user-icon i
+{
+    padding: 15px 20px;;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 100%;
+    border-color: rgb(189, 187, 187);
+    background-color: #fff;
+}
+
+.dropdown-toggle
+{
+    background-color: rgb(66, 66, 66);
+    border: none;
+}
+
+.btn-group
+{
+    float: right;
+}
+
