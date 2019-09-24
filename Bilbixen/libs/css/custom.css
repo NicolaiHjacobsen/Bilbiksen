@@ -43,3 +43,68 @@ input
     float: right;
 }
 
+.page-header
+{
+    text-align: center;
+    padding: 20px;
+}
+
+.section_img
+{
+    width: 100%;
+}
+.what_is_bilbixen_left
+{
+    background-color: rgb(4, 243, 243);
+    border-radius: 10px 10px 0px 10px;
+    margin: 2% 2% 0% 0%;
+    padding: 10px;
+}
+.what_is_bilbixen_right
+{
+    margin: 2% 0% 0% 0%;
+    padding: 10px;
+}
+
+hr
+{
+    margin: 5% 0% 0% 0%;
+    border: 5px solid rgb(4, 243, 243);
+}
+
+.card
+{
+    border-radius: 0px !important;
+    font-size: 4em;
+    text-align: center;
+}
+.icons
+{
+    margin-top: 15%;
+}
+
+.fas p
+{
+    margin-top: 30px;
+    font-size: .4em;
+    width: 100%;
+}
+
+.foot 
+{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+
+.foot_content
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+

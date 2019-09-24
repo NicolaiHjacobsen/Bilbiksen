@@ -107,6 +107,7 @@ if($access_denied)
                     echo "<input type='password' name='password' class='form-control' placeholder='Password' required />";
                     echo "<input type='submit' class='btn btn-lg btn-primary btn-block' value='Log In' />";
                 echo "</form>";
+                echo "<a href='register.php'>register</a>";
             echo "</div>";
         echo "</div>";
     echo "</div>";

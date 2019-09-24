@@ -17,15 +17,3 @@
 
     <!-- Container -->
     <div class="container">
-        <?php
-        if($page_title!="Login")
-        {
-        ?>
-        <div class='col-md-12'>
-            <div class="page-header">
-                <h1><?php echo isset($page_title) ? $page_title : "Bilbixen"; ?></h1>
-            </div>
-        </div>
-        <?php
-        }
-        ?>
